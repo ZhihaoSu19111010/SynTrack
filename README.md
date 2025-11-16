@@ -1,5 +1,6 @@
 <p align="center"> SynTrack: Multimodal Referring Multi-Object Tracking <br /> via Multi-Scale Cross-Modal Frequency Fusion and Temporal Contrastive Alignment
-<br> <div align="center"></a> <b>&middot;</b> </a> <b>&middot;</b> (Your team members) <br> <br> <a href="#" target="_blank">Paper</a> </div> <div align=center><img src="assets/network_syntrack.png" /></div>
+
+  
 ### Text–Speech–Vision Based MR-MOT Benchmarks
 Multi-KITTI (Ours)
 
